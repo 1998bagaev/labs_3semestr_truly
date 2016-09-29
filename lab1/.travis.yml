@@ -1,0 +1,5 @@
+language:cpp
+script:
+-mkdir build 
+-d build
+-make.. && make
